@@ -15,7 +15,7 @@ the Javascript script. Example:
 
 ```javascript
 <script src="https://github.com/42BV/toastui/blob/main/toastui-editor-all.min.js"></script>
-<script src="https://github.com/42BV/toastui/blob/main/dist/i18n/nl-nl.js"></script>
+<script src="https://github.com/42BV/toastui/blob/main/i18n/nl-nl.js"></script>
 ```
 
 See [TOAST UI internationalization](https://nhn.github.io/tui.editor/latest/tutorial-example16-i18n).
